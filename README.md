@@ -1,5 +1,5 @@
 # Vaccines_sentiment
-Script used for analysing sentiment towards vaccines on polish internet
+Scripts used for gathering data and analysing sentiment towards vaccines on polish internet
 
 Files description:
 * threads.py, wp_pl.py, check_date.py - web scraping scripts, used to gather and save all posts from forum.parenting.pl which are about vaccinations
